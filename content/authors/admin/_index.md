@@ -2,8 +2,8 @@
 title: Angela Y. Lee
 role: PhD Candidate in Communication | Media Psychology
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I study the psychology of technology and design interventions to address
+  real-world problems that threaten our personal and collective well-being.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
