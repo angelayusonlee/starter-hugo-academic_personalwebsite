@@ -1,7 +1,7 @@
 ---
 title: Angela Y. Lee
 role: PhD Candidate in Communication | Media Psychology
-avatar_filename: angela_square.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
